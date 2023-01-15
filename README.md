@@ -11,7 +11,7 @@
 
 # Problem Statement
 
-![image]()
+![image](diabetics.png)
 
 
 ## About the Project
@@ -39,7 +39,7 @@ Through this project, we learned about the importance of data preprocessing and 
 In the future, we hope to add more features to the app such as the ability for users to input their insurance policy details and receive more specific recommendations. We also plan to improve the accuracy of our predictions by incorporating more data and using more advanced machine-learning techniques.
 
 
-Presentation link : 
+Presentation link : [Click Here](https://github.com/giriprasathd/data/blob/main/Health%20Care%20Insurance%20Tracker.pdf)
 
 Demo video link  : [Click Here](https://www.youtube.com/watch?v=uYgmywdBuc8)
 
