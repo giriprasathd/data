@@ -7,14 +7,23 @@
 |Aman Yadav|Automatlog#4422|
 |Ani Utkin|Ani#3740|
 
---
+---
 
-# Problem Statement
+# About the Project
 
-![image](diabetics.png)
+## Problem Statement
+`
+Tracking one's health insurance becomes difficult due to the increasing costs and lack of control one may have in managing their insurance.
+`
+
+<img src="diabetics.png"  width="600" height="300">
 
 
-## About the Project
+## Solution
+
+`A Health Insurance Tracker is built to help with having more control of what a user's insurance can cover.
+Many features are taken into account of how they can affect the expenses of the use
+`
 
 ## Inspiration
 
@@ -38,18 +47,25 @@ Through this project, we learned about the importance of data preprocessing and 
 ##  What's next for Health Care Insurance Tracker
 In the future, we hope to add more features to the app such as the ability for users to input their insurance policy details and receive more specific recommendations. We also plan to improve the accuracy of our predictions by incorporating more data and using more advanced machine-learning techniques.
 
-
+--- 
 Presentation link : [Click Here](https://github.com/giriprasathd/data/blob/main/Health%20Care%20Insurance%20Tracker.pdf)
 
 Demo video link  : [Click Here](https://www.youtube.com/watch?v=uYgmywdBuc8)
 
+---
 
 Images: 
+App Overview
 
+<img src="https://user-images.githubusercontent.com/72098281/212531898-2e242e2b-b429-42eb-93b5-81c02a8e7789.png"  width="700" height="400">
 
+---
+Prediction Values
 
-![image](https://user-images.githubusercontent.com/72098281/212529106-3451a05d-0bc2-4f6a-97e8-61b94ec64995.png)
+<img src="https://user-images.githubusercontent.com/72098281/212529106-3451a05d-0bc2-4f6a-97e8-61b94ec64995.png"  width="700" height="400">
 
+---
+
+Prediction Graph
 
 ![image](https://user-images.githubusercontent.com/72098281/212529038-f2cce03a-89d0-496f-bcea-387119df6c45.png)
-
