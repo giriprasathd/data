@@ -31,7 +31,7 @@ st.markdown(
             
 # Create input fields for each feature
 no_of_dependents = st.number_input("Enter the number of dependents",1,10)
-st.image('')
+st.image('diabetics.png')
 smoker = st.selectbox("Are you a smoker?", [0, 1])
 st.write("""
 The zero indicates "no" and one indicates "yes."
